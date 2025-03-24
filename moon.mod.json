@@ -2,11 +2,11 @@
   "name": "MINGtoMING/datetime",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
+  "repository": "https://github.com/MINGtoMING/datetime-mbt",
   "license": "Apache-2.0",
   "keywords": [
     "datetime"
   ],
-  "description": "",
+  "description": "Parsing and stringifying datetime values in TOML format",
   "source": "src"
 }
